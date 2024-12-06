@@ -1,0 +1,1 @@
+The project is a Blog List Application built on Node.js, Express.js and MongDo.
